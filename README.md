@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/c1dd25562a0186f88336d0879f2d9d14736fb0f66105ccc43f5b64001bfa24f3/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d52354b67433162682d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f6f693272777364653030786f396f75366a77736c2e676966)
+<img align="center" alt="Coding"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width: 1000px ; height:350px ">
 <h1 align="center">Hi 👋, I'm Akash Kumar Laha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
