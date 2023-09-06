@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Laha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
+<img align="center" alt="coding" width="1000" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meakash05&label=Profile%20views&color=0e75b6&style=flat" alt="meakash05" /> </p>
 
