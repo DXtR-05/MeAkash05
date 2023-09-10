@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **akashlaha1705@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1XKNuXOQH3892bWIp-murBoUTVGk8KPro/view?usp=drive_link](https://drive.google.com/file/d/1XKNuXOQH3892bWIp-murBoUTVGk8KPro/view?usp=drive_link](https://drive.google.com/file/d/1RnngECsLhRzGPWIbvvlhz0TIpXfX2wIQ/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RnngECsLhRzGPWIbvvlhz0TIpXfX2wIQ/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny but Multitasking**
 
